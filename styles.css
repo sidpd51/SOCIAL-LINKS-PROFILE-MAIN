@@ -77,6 +77,7 @@ img {
     font-weight: 600    ;
     background-color: hsl(0, 0%, 20%);
     border-radius: 0.5rem;
+    transition: 100ms;
 }
 
 .social-links:hover{
